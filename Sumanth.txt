@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Sumanth is a Good Girl
 Hi This is Sumanth Boy
+=======
+Sumanth is an Good Girl
+Hi This is Sumanth
+>>>>>>> ed01a64... File Changed from B2
